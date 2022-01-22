@@ -1,3 +1,1 @@
-# Remove all .DS_Stores from the repository
-git rm --cached .DS_Store
-find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+**/.DS_Store
