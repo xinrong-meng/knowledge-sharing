@@ -13,6 +13,7 @@ Abbreviations are used in some file names to indicate the referenced books:
 |----------|----------|----------|
 | DDIA | Designing Data-Intensive Applications | Martin Kleppmann |
 | DDS | Designing Distributed Systems | Brendan Burns |
+| FSS | Foundations of Scalable Systems | Ian Gorton |
 
 ## Contributing
 
