@@ -3,7 +3,7 @@
 Welcome to the Knowledge Sharing repository. This repository is dedicated to sharing valuable knowledge and 
 resources on various topics related to Software Systems and Technologies.
 
-We host weekly Zoom discussions for engaging conversations on the shared resources.
+We host bi-weekly Zoom discussions for engaging conversations on the shared resources.
 
 Please note that all the resources provided are intended solely for educational purposes.
 
