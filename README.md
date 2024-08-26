@@ -10,10 +10,11 @@ Please note that all the resources provided are intended solely for educational 
 Abbreviations are used in some file names to indicate the referenced books:
 
 | Abbreviation | Book | Author |
-|----------|----------|----------|
-| DDIA | Designing Data-Intensive Applications | Martin Kleppmann |
-| DDS | Designing Distributed Systems | Brendan Burns |
-| FSS | Foundations of Scalable Systems | Ian Gorton |
+|--------------|----------|----------|
+| DDIA         | Designing Data-Intensive Applications | Martin Kleppmann |
+| DDS          | Designing Distributed Systems | Brendan Burns |
+| FSS          | Foundations of Scalable Systems | Ian Gorton |
+| SDI          | System Design Interview - An Insider’s Guide | Alex Xu |
 
 ## Contributing
 
