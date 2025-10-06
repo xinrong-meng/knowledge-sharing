@@ -1,0 +1,14 @@
+[project]
+name = "fastmcp-server"
+version = "0.1.0"
+description = "FastMCP server example"
+dependencies = [
+    "mcp[cli]>=1.0.0",
+]
+
+[project.scripts]
+fastmcp-server = "fastmcp_server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
