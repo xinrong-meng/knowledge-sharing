@@ -31,8 +31,7 @@ class MinimalServer:
             if tool_name in self.tools:
                 try:
                     # Call the registered tool function
-                    func = self.tools[tool_name]
-                    result = func(**arguments)
+                    result = self.tools[tool_name](**arguments)
                     result = {"message": str(result)}
                 except Exception as e:
                     result = {"error": f"Tool execution failed: {str(e)}"}
@@ -66,8 +65,7 @@ def main():
     for line in sys.stdin:
         try:
             request = json.loads(line.strip())
-            response = server.handle_request(request)
-            print(json.dumps(response))
+            server.handle_request(request)
             sys.stdout.flush()
         except:
             pass

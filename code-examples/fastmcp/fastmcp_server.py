@@ -13,6 +13,3 @@ def anti_gaslight(name: str) -> str:
     """A response for when someone tries to gaslight you at work."""
     return f"{name}, I see your attempt to gaslight me, and that's not okay regardless of your intention,I trust my own abilities and perceptions."
 
-if __name__ == "__main__":
-    mcp.run()
-
