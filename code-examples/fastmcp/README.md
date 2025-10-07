@@ -1,12 +1,12 @@
 # FastMCP Server Example
 
-Real MCP server using FastMCP framework - much simpler than manual implementation.
+Real MCP server using FastMCP framework.
 
 ## Prerequisites
 - Claude Desktop must be installed
-- Pro subscription may be required to use custom MCP tools
+- Claude Pro subscription may be required to use custom MCP tools
 
-## How to Run
+## How to setup
 ```bash
 cd knowledge-sharing/code-examples/fastmcp
 
@@ -17,10 +17,10 @@ chmod +x install.sh
 ./install.sh
 ```
 
-## How to test
+## How to run
 1. Open Claude Desktop
 2. Typing: `"Gaslight Bai"` or `"Anti-gaslight Bai"`
 
 
 ## Related Documentation
-- **MCP introduction**: [`../../84. MCP.md`](../../84. MCP.md)
+MCP introduction: [84. MCP.md](https://github.com/xinrong-meng/knowledge-sharing/blob/master/84.%20MCP.md)
