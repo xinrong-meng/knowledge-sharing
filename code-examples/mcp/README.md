@@ -21,7 +21,7 @@ anti_gaslight: A response for when someone tries to gaslight you at work.
 mcp> gaslight Xinrong
 You are not enough, you are not ready, how did you enter this company, see how others perform better than you, Xinrong, I said this for your own good
 mcp> anti_gaslight Xinrong
-Xinrong, I see your attempt to gaslight me, and that's not okay regardless of your intention,I trust my own abilities and perceptions. 
+Xinrong, I see your attempt to gaslight me, and that's not okay regardless of your intention, I trust my own abilities and perceptions. 
 mcp> quit
 ```
 
@@ -35,4 +35,4 @@ User (you)         →  Claude Model (decides which tool to call)
 ```
 
 ## Related Documentation
-- **MCP introduction**: [`../../84. MCP.md`](../../84. MCP.md)
+MCP introduction: [84. MCP.md](../../84. MCP.md)
