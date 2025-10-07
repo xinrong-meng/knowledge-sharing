@@ -23,4 +23,4 @@ chmod +x install.sh
 
 
 ## Related Documentation
-MCP introduction: [84. MCP.md](../../84. MCP.md)
+MCP introduction: [84. MCP.md](https://github.com/xinrong-meng/knowledge-sharing/blob/master/84.%20MCP.md)
