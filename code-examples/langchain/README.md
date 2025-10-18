@@ -82,3 +82,6 @@ Demonstrates:
 - ✅ Semantic embeddings (HuggingFace)
 - ✅ Document retrieval based on similarity
 - ✅ Combining retrieval with generation
+
+## Related Documentation
+LangChain introduction: [85. LangChain.md](https://github.com/xinrong-meng/knowledge-sharing/blob/master/85.%20LangChain.md)
